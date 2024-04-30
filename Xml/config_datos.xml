@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<config>
+    <clientes>
+        <cliente>
+            <NIT> 215468794510 </NIT>
+            <nombre> Pedro Guerra </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794511 </NIT>
+            <nombre> Juan Perez </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794512 </NIT>
+            <nombre> Maria Lopez </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794513 </NIT>
+            <nombre> Carlos Perez </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794514 </NIT>
+            <nombre> Luisa Lopez </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794515 </NIT>
+            <nombre> Ana Perez </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794516 </NIT>
+            <nombre> Pedro Lopez </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794510 </NIT>
+            <nombre> Pedro Guerra Santizo Act </nombre>
+        </cliente>
+        <cliente>
+            <NIT> 215468794511 </NIT>
+            <nombre> Juan Perez De la Paz Act </nombre>
+        </cliente>
+       
+    </clientes>
+    <bancos>
+        <banco>
+            <codigo> 0112312 </codigo>
+            <nombre> Banrural </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112313 </codigo>
+            <nombre> Banco Industrial </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112314 </codigo>
+            <nombre> Banco G&amp;T </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112315 </codigo>
+            <nombre> Banco de los Trabajadores </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112316 </codigo>
+            <nombre> Banco de Antigua </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112317 </codigo>
+            <nombre> Banco de Credito </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112318 </codigo>
+            <nombre> Banco de America Central </nombre>
+        </banco>
+        <banco>
+            <codigo> 0112312 </codigo>
+            <nombre> Banrural el amigo que te ayuda a crecer</nombre>
+        </banco>
+        <banco>
+            <codigo> 0112313 </codigo>
+            <nombre> Banco Industrial actualizado </nombre>
+        </banco>
+        
+    </bancos>
+</config>

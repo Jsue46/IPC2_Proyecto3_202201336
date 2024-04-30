@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<transacciones>
+    <facturas>
+        <factura>
+            <numeroFactura> 4561234789 </numeroFactura>
+            <NITcliente> 215468794510 </NITcliente>
+            <fecha> 10/02/2024 </fecha>
+            <valor> 100 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 1254894654 </numeroFactura>
+            <NITcliente> 215468794511 </NITcliente>
+            <fecha> 10/03/2024 </fecha>
+            <valor> 200 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 4567895215 </numeroFactura>
+            <NITcliente> 215468794512 </NITcliente>
+            <fecha> 10/04/2024 </fecha>
+            <valor> 300 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 987462156 </numeroFactura>
+            <NITcliente> 215468794513 </NITcliente>
+            <fecha> 10/05/2024 </fecha>
+            <valor> 400 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 789452164 </numeroFactura>
+            <NITcliente> 215468794514 </NITcliente>
+            <fecha> 10/06/2024 </fecha>
+            <valor> 500 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 784561549 </numeroFactura>
+            <NITcliente> 215468794515 </NITcliente>
+            <fecha> 10/07/2024 </fecha>
+            <valor> 600 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 79842365554 </numeroFactura>
+            <NITcliente> 215468794516 </NITcliente>
+            <fecha> 10/08/2024 </fecha>
+            <valor> -700 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 4561234789 </numeroFactura>
+            <NITcliente> 215468794510 </NITcliente>
+            <fecha> 10/02/2024 </fecha>
+            <valor> 800 </valor>
+        </factura>
+        <factura>
+            <numeroFactura> 9513467914 </numeroFactura>
+            <NITcliente> 215468794511 </NITcliente>
+            <fecha> 10/03/2024 </fecha>
+            <valor> aabc </valor>
+        </factura>
+
+    </facturas>
+    <pagos>
+        <pago>
+            <codigoBanco> 0112312 </codigoBanco>
+            <fecha> 15/01/2024 </fecha>
+            <NITcliente> 215468794510 </NITcliente>
+            <valor> 120 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112312 </codigoBanco>
+            <fecha> 15/02/2024 </fecha>
+            <NITcliente> 215468794510 </NITcliente>
+            <valor> 202.2 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112312 </codigoBanco>
+            <fecha> 15/03/2024 </fecha>
+            <NITcliente> 215468794510 </NITcliente>
+            <valor> 350 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112313 </codigoBanco>
+            <fecha> 15/02/2024 </fecha>
+            <NITcliente> 215468794511 </NITcliente>
+            <valor> 220 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112313 </codigoBanco>
+            <fecha> 15/01/2024 </fecha>
+            <NITcliente> 215468794511 </NITcliente>
+            <valor> 450.1 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112314 </codigoBanco>
+            <fecha> 15/03/2024 </fecha>
+            <NITcliente> 215468794512 </NITcliente>
+            <valor> 320 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112314 </codigoBanco>
+            <fecha> 15/06/2024 </fecha>
+            <NITcliente> 215468794512 </NITcliente>
+            <valor> 456</valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112315 </codigoBanco>
+            <fecha> 15/04/2024 </fecha>
+            <NITcliente> 215468794513 </NITcliente>
+            <valor> 420 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112315 </codigoBanco>
+            <fecha> 15/07/2024 </fecha>
+            <NITcliente> 215468794513 </NITcliente>
+            <valor> 800 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112316 </codigoBanco>
+            <fecha> 15/05/2024 </fecha>
+            <NITcliente> 215468794514 </NITcliente>
+            <valor> 520 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112316 </codigoBanco>
+            <fecha> 15/09/2024 </fecha>
+            <NITcliente> 215468794514 </NITcliente>
+            <valor> 900 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112317 </codigoBanco>
+            <fecha> 15/06/2024 </fecha>
+            <NITcliente> 215468794515 </NITcliente>
+            <valor> 620 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112318 </codigoBanco>
+            <fecha> 15/07/2024 </fecha>
+            <NITcliente> 215468794516 </NITcliente>
+            <valor> 720 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112318 </codigoBanco>
+            <fecha> 15/07/2024 </fecha>
+            <NITcliente> 215468794516 </NITcliente>
+            <valor> 890 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112312 </codigoBanco>
+            <fecha> 15/01/2024 </fecha>
+            <NITcliente> 215468794510 </NITcliente>
+            <valor> -820 </valor>
+        </pago>
+        <pago>
+            <codigoBanco> 0112313 </codigoBanco>
+            <fecha> 15/02/2024 </fecha>
+            <NITcliente> 215468794511 </NITcliente>
+            <valor> aaa </valor>
+        </pago>
+    </pagos>
+</transacciones>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<transacciones>
+    <facturas>
+        <nuevasFacturas> [valor_numérico] </nuevasFacturas>
+        <facturasDuplicadas> [valor_numérico] </facturasDuplicadas>
+        <facturasConError> [valor_numérico] </facturasConError>
+    </facturas>
+    <pagos>
+        <nuevosPagos> [valor_numérico] </nuevosPagos>
+        <pagosDuplicados> [valor_numérico] </pagosDuplicados>
+        <pagosConError> [valor_numérico] </pagosConError>
+    </pagos>
+</transacciones>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <clientes>
+        <cliente>
+            <NIT> [valor_alfanumérico] </NIT>
+            <nombre> [valor_alfanumérico] </nombre>
+        </cliente>
+        ...
+    </clientes>
+    <bancos>
+        <banco>
+            <codigo> [valor_numérico] </codigo>
+            <nombre> [valor_alfanumérico] </nombre>
+        </banco>
+        ...
+    </bancos>
+</config>
