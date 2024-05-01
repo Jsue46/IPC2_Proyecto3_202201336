@@ -20,7 +20,5 @@ from app import views
 
 urlpatterns = [
     path('', views.index),
-    path('config', views.config),
-    path('transac', views.transac),
-    path('peticiones', views.peticiones),
+
 ]
